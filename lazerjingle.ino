@@ -115,6 +115,7 @@ void storeRGB()
   xmas[4].b = 100;
 }
 
+//run only once the program starts
 void setup()
 {
   // put your setup code here, to run once:
@@ -145,6 +146,7 @@ void setup()
   Serial.println("");
 }
 
+//infinite iterations
 void loop()
 {
   //detection mechanism
