@@ -26,7 +26,13 @@ The CS207 class really helps students to gain a basic knowledge of programmable 
 
 ### Final Design
 
+![alt text](https://i.imgur.com/rPzYNKU.jpg "final design")
 
+![alt text](https://i.imgur.com/wb3WoqZ.jpg "final design1")
+
+![alt text](https://i.imgur.com/emYZmkx.jpg "final design")
+
+![alt text](https://i.imgur.com/RLHkhao.jpg "final design")
 
 ### Credits
 
